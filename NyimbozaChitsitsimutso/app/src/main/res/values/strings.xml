@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nyimbo za Chitsitsimutso</string>
+    <string name="nyimbo_logo">Nyimbo logo</string>
+    <string name="favourites">Favourites</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+    <string name="enter_title">Enter hymn title</string>
+    <string name="about_me">About::::
+        Nyimbo za chitsitsimutso v1.1.
+        Developed by Patience S Mthunzi.
+        More blessings to you all.
+    </string>
+    <string name="favourites_adding">Add favourite</string>
+    <string-array name="choose_by">
+        <item> Go to Hymn Titles -></item>
+    </string-array>
+</resources>

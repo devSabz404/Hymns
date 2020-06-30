@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".HymnCategory">
+    <EditText
+        android:id="@+id/search_text"
+        android:hint="@string/enter_title"
+        android:layout_width="match_parent"
+        android:drawableStart="@drawable/search_item"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/search_item" />
+
+
+
+    <ListView
+        android:id="@+id/list_hymns"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
